@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{39BD811D-436D-476B-B9AD-24FFFD3103AC}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CSharpFundas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SeleniumLearning/FunctionalTest.cs">
+    <Files>
+      <File FileName="Assignments/Assginment8.cs" Line="1" Column="1" />
+      <File FileName="MsTestProject/Class1.cs" />
+      <File FileName="SeleniumLearning/TakeScreenshot.cs" />
+      <File FileName="Assignments/App.config" />
+      <File FileName="MsTestProject/appsettings.json" Line="12" Column="1" />
+      <File FileName="Assignments/Assignment4.cs" Line="1" Column="1" />
+      <File FileName="Assignments/Assignment6.cs" Line="1" Column="1" />
+      <File FileName="Assignments/Assignment7.cs" Line="1" Column="1" />
+      <File FileName="Assignments/Assignment9.cs" Line="1" Column="1" />
+      <File FileName="Assignments/Assignment2.cs" Line="1" Column="1" />
+      <File FileName="Assignments/Assignment1.cs" Line="1" Column="1" />
+      <File FileName="SeleniumLearning/Bitmap.cs" Line="1" Column="1" />
+      <File FileName="SeleniumLearning/FunctionalTest.cs" Line="46" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="rahulshettyacademy" expanded="True">
+            <Node name="MsTestProject" expanded="True" />
+            <Node name="SeleniumLearning" expanded="True">
+              <Node name="FunctionalTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
