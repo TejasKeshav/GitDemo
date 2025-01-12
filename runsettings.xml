@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<RunSettings>
+    <MSTest>
+        <Parallelize>
+<Workers>8</Workers>
+            <Scope>MethodLevel</Scope>
+        </Parallelize>
+    </MSTest>
+     <TestRunParameters>
+            <Parameter name="SeleniumMaqs:Browser" value="Chrome" />
+            <Parameter name="RemoteBrowser" value="Chrome" />
+            <Parameter name="SeleniumMaqs:Incognito" value="False" />
+            <Parameter name="DownloadPath" value="/Users/nagachennareddy/Downloads" />
+            <Parameter name="F1Config:WebSiteBase" value="https://rahulshettyacademy.com/loginpagePractise/" />
+            <Parameter name="F1Config:F1takeScreenshot" value="True"/>
+            <Parameter name="F1Config:ScreenshotOnAssert" value="true"/>
+            </TestRunParameters>
+</RunSettings>
+
