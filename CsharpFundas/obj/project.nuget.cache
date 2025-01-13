@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "3P+30EsUtYJJR55cqtpp0urVK6YQzucKmV4MKyJHzqJE+84rm8nwpQhKh311ntIpiGrJKjh7+bWA4lXu8/B9Mw==",
+  "success": true,
+  "projectFilePath": "/Users/nagachennareddy/Downloads/rahulshettyacademy/CsharpFundas/CSharpFundas.csproj",
+  "expectedPackageFiles": [
+    "/Users/nagachennareddy/.nuget/packages/gremlin.net/3.6.4/gremlin.net.3.6.4.nupkg.sha512",
+    "/Users/nagachennareddy/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/nagachennareddy/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/nagachennareddy/.nuget/packages/polly/7.2.3/polly.7.2.3.nupkg.sha512",
+    "/Users/nagachennareddy/.nuget/packages/selenium.webdriver/4.9.1/selenium.webdriver.4.9.1.nupkg.sha512",
+    "/Users/nagachennareddy/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/nagachennareddy/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/nagachennareddy/.nuget/packages/system.text.json/7.0.2/system.text.json.7.0.2.nupkg.sha512",
+    "/Users/nagachennareddy/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/nagachennareddy/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/nagachennareddy/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
